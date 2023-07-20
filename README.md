@@ -27,29 +27,6 @@
 <div align="center">
 <img width="500" height="200" src="https://github.com/ankitjha2711/ankitjha2711/blob/main/animation_500_kxa883sd.gif?raw=true" alt="cover" />
 </div>
-
-
-## Education
-- B.Tech in Computer Science and Engineering, Vellore Institute of Technology, Chennai (2020-2024)
-  - CGPA: 8.79 / 10
-
-- MPC, Narayana Junior College Hyderabad (2018-2020)
-  - Percentage: 95.2%
-
-- High School, JNV Adilabad (Grad.2018)
-  - Percentage: 88.6%
-
-## Coursework
-- Data Structures and Algorithms
-- Operating Systems
-- **Machine Learning and its Applications**
-- Network and Communication
-- Design and Analysis of Algorithms
-- **Cloud Computing**
-- Essentials of Data Analytics
-- Context-Aware Computing
-- **Java Programming**
-
 ## Skills
 - Programming and Specialization
   - Java, GCP Cloud, Python, R Language
