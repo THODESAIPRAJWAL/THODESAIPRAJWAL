@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Thode Sai Prajwal
 
-## A passionate Computer Science and Engineering student from Vellore Institute of Technology, Chennai.
+## A passionate Code Enthusiast from India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=THODESAIPRAJWAL&color=blueviolet)
 
@@ -49,21 +49,31 @@
 - PwC has selected 300 students out of all the applicants for the **Salesforce training**.
 - Training for skills relevant in a digital-first economy.
 
+![Cloud Animation](https://media.giphy.com/media/xT1R9Do9AT5S72m5yI/giphy.gif)
+
 ### Centre for Healthcare Advancement, Innovation, and Research | Short-term research program on "AI for Healthcare" (Feb 2023 - Mar 2023 | VIT Chennai)
 - Accepted paper titled **"A Comparative Study of Resnet-pretrained Models for Computer Vision"** at IC3 2023 conference.
+
+![AI Animation](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 ### Acmegrade | Artificial Intelligence Intern (Jun 2022 - Aug 2022 | Remote)
 - Worked on computer vision and applied ResNet models to different types of datasets, and developed mini projects on object detection.
 - Made a major project on **"Covid-19 Detection using Res2Net Model on the Public Chest X-ray Dataset"**.
+
+![AI Intern Animation](https://media.giphy.com/media/3oKIPo3mI8pVsNRCZW/giphy.gif)
 
 ## Projects
 ### Cardiomegaly Detection using ResNet Variants | Researcher (May 2023 – July 2023 | VIT Chennai)
 - Developed a deep learning model using ResNet variants for the detection of **Cardiomegaly** (enlarged heart condition).
 - Demonstrated the effectiveness of ResNet variants in accurately detecting cardiomegaly with high sensitivity and specificity.
 
+![Cardiomegaly Animation](https://media.giphy.com/media/3oKIPo3mI8pVsNRCZW/giphy.gif)
+
 ### AI-Enabled Stock Market Website for Financial Literacy | Technical Answers for Real World Problems (Dec 2022 – May 2023 | VIT Chennai)
 - Created a user-friendly website using AI and ML to provide **real-time stock market** information and forecasts.
 - Utilized NLP for news articles, LSTM models for time series forecasting, and Computer Vision for identifying investment opportunities and risks.
+
+![Stock Market Animation](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
 ## Achievements
 - Selected for **Cloud Technology Development Programme** by PwC (2023)
@@ -72,5 +82,7 @@
 
 ## Publications
 - [A Comparative Study of Resnet-pretrained Models for Computer Vision](link_to_your_publication)
+
+
 
 
