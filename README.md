@@ -89,7 +89,7 @@
 - [A Comparative Study of Resnet-pretrained Models for Computer Vision](link_to_your_publication)
 <hr>
 
- ![Thode Sai Prajwal's GitHub Activity Graph]
+Thode Sai Prajwal's GitHub Activity Graph
 
-| ![Thode Sai Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THODESAIPRAJWAL&show_icons=true&theme=radical)             | ![Thode Sai Prajwal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THODESAIPRAJWAL&theme=radical)                                                                                                           |
+![Thode Sai Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THODESAIPRAJWAL&show_icons=true&theme=radical)             ![Thode Sai Prajwal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=THODESAIPRAJWAL&theme=radical)                                                                                                           
 
