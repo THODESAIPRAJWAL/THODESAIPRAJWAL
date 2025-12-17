@@ -1,86 +1,93 @@
-Here's an updated version of your GitHub README, incorporating the new information from your resume:
+# Hi there! I'm Thode Sai Prajwal 👋
 
----
+### 🚀 Data Scientist | Agentic AI & RAG Specialist | Cloud Architect
 
-# Hi there! 👋 I'm Thode Sai Prajwal
-
-## A passionate Computer Science and Engineering graduate from Vellore Institute of Technology, Chennai.
-
-![Profile Views](https://komarev.com/ghpvc/?username=THODESAIPRAJWAL&color=blueviolet)
-
-🌱 I’m currently expanding my expertise in **Java development, AI, and Machine Learning**.
-
----
-
-## Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-THODESAIPRAJWAL-blue?logo=github&style=flat-square&logoColor=white)](https://github.com/THODESAIPRAJWAL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thode_Sai_Prajwal-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/thode-sai-prajwal-436554191)
-[![LeetCode](https://img.shields.io/badge/LeetCode-thodesaiprajwal-red?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/thodesaiprajwal/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-thodesaiprajwal-green?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/thodesaiprajwal)
-[![Salesforce](https://img.shields.io/badge/salesforce-tsaiprajwal-blue?logo=salesforce&style=flat-square&logoColor=white)](https://trailblazer.me/id/tsaiprajwal)
-[![Kaggle](https://img.shields.io/badge/Kaggle-thodesaiprajwal-orange?logo=kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/thodesaiprajwal)
+[![Profile Views](https://komarev.com/ghpvc/?username=THODESAIPRAJWAL&color=blueviolet)](https://github.com/THODESAIPRAJWAL)
 
 <div align="center">
-  <img width="500" height="200" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
-</div>
-
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Welcome+To+Thode+Sai+Prajwal's+GitHub+Profile!)](https://git.io/typing-svg)
-</div>
-
-<hr>
-
-<div align="center">
-  <img width="500" height="200" src="https://github.com/ankitjha2711/ankitjha2711/blob/main/animation_500_kxa883sd.gif?raw=true" alt="cover" />
-</div>
-
-## Skills
-- **Programming Languages:** Java, Python, R, SQL
-- **Cloud Technologies:** AWS, Azure, GCP
-- **Data Science:** Machine Learning, Deep Learning, Feature Engineering, NLP, Computer Vision
-- **Additional Skills:** Cloud Computing, AI, Data Analytics, Network and Communication
-
----
-
-## Experience
-### Genpact | Data Science Intern (Jan 2024 - Jun 2024)
-- Developed a PII detection and masking system using transformer models to process images and documents.
-- Implemented Multimodal Retrieval-Augmented Generation (RAG) and GraphRAG for efficient data retrieval.
-- Created multi-agent frameworks for enhanced information retrieval and processing.
-
-### Centre for Healthcare Advancement, Innovation, and Research | Research on "AI for Healthcare" (Feb 2023 - Jun 2023 | VIT Chennai)
-- Co-authored a paper titled **"A Comparative Study of Resnet-pretrained Models for Computer Vision"**, accepted at the IC3 2023 conference.
-
-### Acmegrade | Artificial Intelligence Intern (Jun 2022 - Aug 2022 | Remote)
-- Worked on computer vision projects using ResNet models.
-- Developed a project on **"Covid-19 Detection using Res2Net Model on Public Chest X-ray Dataset"**.
-
-## Projects
-### PII Detection and Masking | Genpact (Jan 2024 – Jun 2024)
-- Developed an automated system for detecting and masking PII in documents and images using PaddleOCR and Presidio combined with deid-RoBERTa.
-- Implemented masking techniques using PIL and created a web application for streamlined PII protection.
-
-### AI-Enabled Stock Market Website for Financial Literacy | VIT Chennai (Dec 2022 – May 2023)
-- Built a website providing real-time stock market information and forecasts using AI and ML.
-- Utilized NLP for analyzing news articles, LSTM models for time series forecasting, and computer vision for investment analysis.
-
-## Achievements
-- **Global Oracle Cloud Infrastructure 2023 Architect Associate** (2023)
-- **Pre-Finalist in Innovators Hive "Next Big Thing" Hackathon** by Google Cloud India (2023)
-- **Runner-up in DATAHUNT** conducted by Data Science Club (2022)
-
-## Publications
-- [A Comparative Study of Resnet-pretrained Models for Computer Vision](link_to_your_publication)
-
-<hr>
-
-<div align="center">
-  <h3>GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=THODESAIPRAJWAL&show_icons=true&theme=radical" alt="Thode Sai Prajwal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THODESAIPRAJWAL&theme=radical" alt="Thode Sai Prajwal's GitHub Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Enterprise+AI+Solutions;Expert+in+Agentic+RAG+%26+LLMs;Cloud+Infrastructure+(AWS%2FGenAI);Data+Scientist+%40+Genpact" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-This version includes your latest skills, experiences, and projects, reflecting your growth and the new roles you've taken on.
+## 👨‍💻 About Me
 
+I am a **Data Scientist at Genpact** with a focus on delivering high-impact AI/ML solutions for the Insurance and Healthcare sectors. My expertise lies in bridging the gap between advanced research and practical business applications.
+
+- 🔭 **Currently working on:** Hybrid Analytics Engines and Agentic RAG Systems for Insurance Risk Assessment.
+- 🌱 **Deepening knowledge in:** Multi-Agent Orchestration (LangGraph/AutoGen) and GraphRAG.
+- 📄 **Research:** Published author of 4 international papers in AI/ML.
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sai-prajwal-thode-436554191/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thodesaiprajwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0001-6965-4374">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+    <a href="https://leetcode.com/thodesaiprajwal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Tools & Frameworks** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+
+</div>
+
+---
+
+## 💼 Experience Highlight
+
+### **Data Scientist | Genpact** *(July 2024 - Present)*
+- **Hospital Risk Analytics:** Spearheading a hybrid analytics engine processing **1M+ records**; identified **$500k+** in cost optimizations via loss calculation logic.
+- **Agentic RAG:** Deployed multi-agent systems using LangChain, reducing manual underwriting time by **40%**.
+- **Insurance Recommender:** Architected an AWS-based system handling **10k+ daily queries** with Explainable AI (XAI).
+
+### **Data Science Intern | Genpact** *(Jan 2024 - July 2024)*
+- **PII Detection:** Built masking systems with **95%+ accuracy** across 50k+ documents using Transformer models.
+- **GraphRAG:** Improved retrieval relevance by **20%** for hierarchical data structures.
+
+---
+
+## 📚 Publications
+* **Intelligent Model-Fusion Based Insurance Claim Analysis** (ICECCME 2025)
+* **Advanced AI/ML Applications in Insurance Analytics** - 3 Papers (ICECET 2025)
+* **A Comparative Study of ResNet-Pretrained Models for Computer Vision** (IC3 2023)
+
+---
+
+## 🏆 Achievements
+- 🥈 **Runner-up:** DATAHUNT Data Science Competition (2/28 teams)
+- 🏅 **Pre-Finalist:** Innovators Hive "Next Big Thing" Hackathon (Google Cloud India)
+- ☁️ **Certified:** Oracle Cloud Infrastructure 2023 Architect Associate
+
+---
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=THODESAIPRAJWAL&show_icons=true&theme=radical&hide_border=true" alt="Thode Sai Prajwal's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THODESAIPRAJWAL&theme=radical&hide_border=true" alt="Thode Sai Prajwal's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THODESAIPRAJWAL&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
